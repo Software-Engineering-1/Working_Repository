@@ -1,0 +1,52 @@
+HTML5, (X)HTML , CSS2, CSS3, JavaScript, JQuery, AngularJS, Bootstrap, Ajax, DHTML.
+Tools/Utilities: Mac Text Mate, Content Management System (CMS), Adobe Photo shop, Adobe Dreamweaver, Word, Excel, Outlook, and PowerPoint.
+Web Server:Apache Web Server, Internet Information Server (IIS), SVN.
+RDBMS/DBMS:MySQL, Microsoft SQL Server 6.5, Oracle 7.x, Microsoft Access.
+Operating System:Mac OS X, Windows 7/XP/NT/2000/98/95, UNIX, LINUX.
+Web Development Specialist
+Prudential Financial/Retirement (Contractor)
+December 2012 – March 2013
+April 2013 – Till Date
+Prudential Financial is one of the world's largest financial services institutions with operations in the United States, Asia, Europe, and Latin America.
+Environment: HTML5, CSS, jQuery, Photoshop, Fireworks, IBM Portal, Web Services
+Projects: Get A Quote Desktop and Mobile HTML Templates, Poland Public site, Retiree Payments and Plan Sponsor Responsive Website
+Responsibilities:
+Create responsive website in IBM portal environment.
+Data Binding using jquery and javascript templating with handlebars js.
+Based on wireframes and design created HTML templates for Desktop and Mobile site.
+Implemented a responsive style jQuery carousel.
+Cross Browser compatibility testing was performed.
+HTML5/CSS3 for mobile site and site was tested in the ios, android.
+Senior Front End Developer
+Acquity Group
+November 2010 to June 2012
+With over 400 website and content management projects completed to date, Acquity Group has the experience to guide an organization with both online and back-office initiatives. They are experts in user- experience and social media planning to records management and workflow process definition.
+Environment: HTML5, XHTML, CSS, JavaScript, jQuery, Photoshop, Mac OS X, Day CQ5 CMS, Eclipse.
+Clients: Saks 5th Avenue, Belk, Freeman Co, Discover Financial Services and Adobe.
+Responsibilities:
+Developed HTML/CSS/javascript for the Store/Event Locator module using Google Maps Javascript API V3, for website and mobile and Ipad. Utilized jquery/json to populate content. (Saks 5th Avenue).
+Worked on html/css development for outfits and checkout module. (Belk)
+Created Mobile website which would render in IOS, Droid and Blackberry Environments (Freeman Co)
+Created a Mobile Website exclusive to different versions of IPhone and use media queries to handle the retina display issue in IPhone 4 (Discover Financial Services).
+Used Day CQ5 CMS to build html/css/javascript templates to revamp shopping cart and checkout module. (Adobe)
+Worked in Agile environment, attending daily scrum meetings. (Adobe).
+Front End Developer
+Sears Holdings
+April 2009 to November 2010
+Environment: XHTML, CSS, JavaScript, jQuery, Photoshop, SVN and Mac OS X
+Responsibilities:
+Develop XHTML/CSS templates from Photoshop visual design and wireframes. 
+Used jquery to build accordion style content, drag and drop functionality, calendar, popup and modal windows
+Fix front end related bugs that were identified in QA, beta and production environments.
+Attend wire frame review, design and html code walkthrough meetings
+Participate and provide input in code optimization and performance related discussions.
+CSS/HTML Front-end Developer
+Acquity Group
+November 2007 to January 2009
+Environment: XHTML, CSS, JavaScript, JQuery, Photoshop, Day Communiqué CMS, Mac OS X, Agile Methodology
+Client: 3M-Cuno
+Responsibilities:
+Develop semantic and valid XHTML/CSS templates in agile environment where wire frames and visual design were simultaneously being produced.
+Used JQuery for creating JavaScript behaviors.
+Played multiple roles as Build Developer and Defects Developer.
+Provided Postmortem Report Document after the completion of development.
